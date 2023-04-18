@@ -1,2 +1,2 @@
 # DrumKit
-Simple application for beginner drum players
+Simple web application for beginner drum players
